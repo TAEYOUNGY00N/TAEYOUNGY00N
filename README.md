@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C++, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -xodud9752@naver.com
+-  Thanks
 
 <!---
 TAEYOUNGY00N/TAEYOUNGY00N is a special repository because its `README.md` (this file) appears on your GitHub profile.
