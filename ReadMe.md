@@ -1,1 +1,1 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TAEYOUNGY00N&repo=TAEYOUNGY00N)](https://github.com/TAEYOUNGY00N/TAEYOUNGY00N)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAEYOUNGY00N)](https://github.com/anuraghazra/github-readme-stats)
