@@ -9,7 +9,7 @@
 ## Soft <a id="soft">
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Good%20to%20use%20with%20other%20readme&fontSize=40&animation=twinkling)
   
-## Waving <a id="waving">
+## Waving <a id="Yoon">
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
 
 
