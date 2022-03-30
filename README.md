@@ -5,9 +5,11 @@
 - 📫 How to reach me -xodud9752@naver.com
 -  Thanks
 -  ------------------------------------------
-1          |           2
 
-clone
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TAEYOUNGY00N&show_icons=true&theme=radical)
 <!---
 TAEYOUNGY00N/TAEYOUNGY00N is a special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
