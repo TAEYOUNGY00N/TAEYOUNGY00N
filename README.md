@@ -9,9 +9,6 @@
 ## Soft <a id="soft">
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Good%20to%20use%20with%20other%20readme&fontSize=40&animation=twinkling)
   
-## Waving <a id="waving">
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
-
 
 
 
@@ -21,6 +18,7 @@ TAEYOUNGY00N/TAEYOUNGY00N is a special repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+  
 
 ![underarmour](https://user-images.githubusercontent.com/100738656/160884445-bce14a26-ac6f-452c-9460-5327109cc2ac.svg)
 
