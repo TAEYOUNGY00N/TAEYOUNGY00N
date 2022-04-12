@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TAEYOUNGY00N
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++, JavaScript
+- 🌱 I’m currently learning C++, JavaScript, Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -xodud9752@naver.com
 -  Thanks
@@ -19,8 +19,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
   
-
-![underarmour](https://user-images.githubusercontent.com/100738656/160884445-bce14a26-ac6f-452c-9460-5327109cc2ac.svg)
 
 ![windows](https://user-images.githubusercontent.com/100738656/160884449-f87c6cb1-fd57-465d-a543-90de1e52334c.svg)
 
